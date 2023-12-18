@@ -4,7 +4,7 @@ This repository contains R Code for a Rasch Model including the Rasch Analysis.
 It does not include example data.
 One needs to insert data in the following line.
 ```
-Line 10: runData <- #
+Line 11: runData <- #
 ```
 
 R - Packages:
